@@ -8,7 +8,7 @@ A simple webpage that displays video in a popup when the corresponding button is
 
 ## Screenshots
 
-![App Screenshot](https://github.com/vimalpksh/digital-clock-project/blob/main/Capture.PNG?raw=true)
+![App Screenshot](https://github.com/vimalpksh/video-trailer-popup/blob/main/ss1.PNG?raw=true)
 
 ## Demo
 
